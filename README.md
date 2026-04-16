@@ -8,7 +8,7 @@ Hi! I'm **Víctor Alejandro Berrío Rivera**, a passionate **Software Developmen
 
 My perspective is uniquely shaped by **three semesters of Astronomy studies**, where I deepened my understanding of **Computer Science** through the lens of complex physical systems and data analysis. This academic background has honed my ability to approach technical challenges with scientific rigor and a high degree of analytical precision.
 
-My experience ranges from building educational video games in **Godot** to managing enterprise cloud systems at **Burger King**, always applying **SOLID principles, DRY methodology, and rigorous testing** to ensure scalable, secure solutions.
+My experience ranges from building educational video games in **Godot** to managing enterprise cloud systems at **Burger King**. 
 
 > I'm driven by **problem-solving through technology**—whether it's optimizing algorithmic efficiency with Python, designing user-friendly interfaces, or managing sensitive data with security-first practices. I believe in **writing code that reads like well-written prose**, documenting decisions for future developers, and shipping incrementally to deliver real value.
 
@@ -16,12 +16,17 @@ My experience ranges from building educational video games in **Godot** to manag
 ## Core Values
 
 - ✅ **Clean Code** - Meaningful names, single responsibility, small focused functions
-- 🧪 **Test-Driven Development** - If it can break, test it
-- 🔒 **Security First** - Never trust input, always validate
-- 📚 **Continuous Learning** - From hackathons to production environments
+- 🧪 **Test-Driven Development** - If is a little weak, test it
+- 🔒 **Security First** - Always validate
 - 🤝 **Collaborative Spirit** - Strong communication and teamwork skills
 
 ---
 
 Currently pursuing my degree at CESDE while working on a **Scholarship Management System**, I'm excited to contribute to projects that blend **technical excellence with real-world impact**. Let's build software that not only works today but stands the test of time.
+
+## 📬 Contact Information
+
+- 📧 **Email:** [alejoberrio72@gmail.com](mailto:alejoberrio72@gmail.com)
+- 📱 **Phone:** +57 302 383 0910
+- 💼 **LinkedIn:** [linkedin.com/in/víctor-alejandro-berrio-39ab43247](https://www.linkedin.com/in/víctor-alejandro-berrio-39ab43247)
 
